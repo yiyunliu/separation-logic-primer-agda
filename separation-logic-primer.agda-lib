@@ -1,0 +1,3 @@
+name: separation-logic-primer
+depend: standard-library
+include: .
